@@ -1,0 +1,7 @@
+{
+  "name": "AdriNeuma",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
